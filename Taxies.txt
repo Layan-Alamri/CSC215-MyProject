@@ -1,0 +1,42 @@
+id     driver  category    plate     color  rate  minCharg
+111    Ali   Business    WED500    Sliver  4.5  50.00
+222    Hamad   Family      ABC111    Black  5.0  20.00
+333    khalid   Busniess    GGG123    Black   5.0  50.00
+444    Saad   standard    BBE222    Red  3.4  10.00
+555    Ahmed   Family      WWW444    White  4.9  20.00
+666    Maha   standard    ABC555    rey  5.0  10.00111             Ali             Business             WED500               4.5             R 
+222             Hamad           Family               ABC111               5.0             R 
+444             Saad            standard             BBE222               3.4             R 
+666             Maha            standard             ABC555               5.0             R 
+111             Ali             Business             WED500               4.5             R 
+222             Hamad           Family               ABC111               5.0             R 
+444             Saad            standard             BBE222               3.4             R 
+666             Maha            standard             ABC555               5.0             R 
+111             Ali             Business             WED500               4.5             R 
+222             Hamad           Family               ABC111               5.0             R 
+444             Saad            standard             BBE222               3.4             R 
+666             Maha            standard             ABC555               5.0             R 
+111             Ali             Business             WED500               4.5             R 
+222             Hamad           Family               ABC111               5.0             R 
+444             Saad            standard             BBE222               3.4             R 
+666             Maha            standard             ABC555               5.0             R 
+111             Ali             Business             WED500               4.5             R 
+222             Hamad           Family               ABC111               5.0             R 
+444             Saad            standard             BBE222               3.4             R 
+666             Maha            standard             ABC555               5.0             R 
+111             Ali             Business             WED500               4.5             R 
+222             Hamad           Family               ABC111               5.0             R 
+444             Saad            standard             BBE222               3.4             R 
+666             Maha            standard             ABC555               5.0             R 
+111             Ali             Business             WED500               4.5             R 
+222             Hamad           Family               ABC111               5.0             R 
+444             Saad            standard             BBE222               3.4             R 
+666             Maha            standard             ABC555               5.0             R 
+111             Ali             Business             WED500               4.5             R 
+222             Hamad           Family               ABC111               5.0             R 
+444             Saad            standard             BBE222               3.4             R 
+666             Maha            standard             ABC555               5.0             R 
+111             Ali             Business             WED500               4.5             R 
+222             Hamad           Family               ABC111               5.0             R 
+444             Saad            standard             BBE222               3.4             R 
+666             Maha            standard             ABC555               5.0             R 
